@@ -221,6 +221,6 @@ View the results, categorized by growth prospects, business changes, risk factor
 
 ## Project Video
 
-For a complete walkthrough of the project, watch this [project video](images/Video11.mp4) to see how the Financial Document Analyzer works in action.
+For a complete walkthrough of the project, watch this [project video](https://github.com/MANAS8991/Financial_document_analyzer.github.io/blob/main/images/Video11.mp4) to see how the Financial Document Analyzer works in action.
 
 

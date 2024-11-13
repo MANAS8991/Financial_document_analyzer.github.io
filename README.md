@@ -213,14 +213,14 @@ View the results, categorized by growth prospects, business changes, risk factor
 
 ## Screenshots
 #### Home Page
-![Home Page](images/home_page.png)
+![Home Page](images/img1.png)
 
 #### Analysis Results
-![Analysis Results](images/analysis_results.png)
+![Analysis Results](images/img2.png)
 
 
 ## Project Video
 
-For a complete walkthrough of the project, watch this [project video](https://www.youtube.com/your-video-link) to see how the Financial Document Analyzer works in action.
+For a complete walkthrough of the project, watch this [project video](images/Video11.mp4) to see how the Financial Document Analyzer works in action.
 
 

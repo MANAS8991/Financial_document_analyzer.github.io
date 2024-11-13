@@ -220,6 +220,7 @@ View the results, categorized by growth prospects, business changes, risk factor
 
 
 ## Project Video
-![project video](https://github.com/MANAS8991/Financial_document_analyzer.github.io/blob/main/images/Video11.mp4)
+#### Video
+![project video](images/Video11.mp4)
 
 
